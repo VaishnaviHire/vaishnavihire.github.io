@@ -5,10 +5,11 @@
     "picture": "",
     "website": "https://vaishnavihire.com",
     "profiles": [
+
       {
-        "network": "Twitter",
+        "network": "GitHub",
         "username": "VaishnaviHire",
-        "url": "https://twitter.com/VaishnaviHire"
+        "url": "https://github.com/VaishnaviHire"
       },
       {
         "network": "LinkedIn",
@@ -16,9 +17,9 @@
         "url": "https://www.linkedin.com/in/vaishnavihire/"
       },
       {
-        "network": "GitHub",
+        "network": "Twitter",
         "username": "VaishnaviHire",
-        "url": "https://github.com/VaishnaviHire"
+        "url": "https://twitter.com/VaishnaviHire"
       }
     ]
   },
