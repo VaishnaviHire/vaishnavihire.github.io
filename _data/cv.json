@@ -1,0 +1,197 @@
+{
+  "basics": {
+    "name": "Vaishnavi Hire",
+    "label": "Backend Developer and Data enthusiast",
+    "picture": "",
+    "website": "https://vaishnavihire.com",
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "VaishnaviHire",
+        "url": "https://twitter.com/VaishnaviHire"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "vaishnavihire",
+        "url": "https://www.linkedin.com/in/vaishnavihire/"
+      },
+      {
+        "network": "GitHub",
+        "username": "VaishnaviHire",
+        "url": "https://github.com/VaishnaviHire"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Red Hat",
+      "position": "Openshift Engineering Intern",
+      "website": "https://kscout.io",
+      "startDate": "2019-05-20",
+      "endDate": "2019-08-23",
+      "summary": "Contributed in development of an open-source platform for serverless applications that allowed the developer community to explore, host and deploy serverless applications with ease. Developed a virtual assistant for the platform helping new users get an overview of serverless and deployment on Kubernetes clusters by using natural language processing (NLP). Developed a robust API for virtual assistant which can be integrated with any messaging platforms which allowed the platform to reach wider audiences.",
+      "highlights": [
+        "Contributed to opensource community",
+        "Created a virtual assistant which is compatible with multiple messaging platforms and IDEs "
+      ]
+    },
+    {
+      "company": "Northeastern University",
+      "position": "Graduate Teaching Assistant",
+      "website": "https://www.northeastern.edu",
+      "startDate": "2019-01-15",
+      "endDate": "Present",
+      "summary": "Mentored students in Programming with Data course with key concepts in programming, data structures and data analysis.Assisted professor with conducting review sessions, quizzes and grading",
+      "highlights": [
+        "Conducted teaching sessions throughout the course",
+        "Created a virtual assistant which is compatible with multiple messaging platforms and IDEs "
+      ]
+    },
+    {
+      "company": "Brightcove, Inc",
+      "position": "Software Engineer Intern",
+      "website": "https://www.brightcove.com/en/",
+      "startDate": "2018-06-11",
+      "endDate": "2018-12-15",
+      "summary": "Worked with Platform team to develop v2.0 of Playback API by actively contributing to their codebase.Analyzed enterprise scale data (about a billion requests) and derived insights from those analysis to measure and improve response times of the requests, content geo restrictions and time delays. Contributed in API design and implementation which enhanced the authentication service for video playback.",
+      "highlights": [
+        "Create data model to track response times and provided insights to improve the duration",
+        "Improved authentication api design by implementing a load testing module"
+      ]
+    },
+    {
+      "company": "Barclays",
+      "position": "Data Analyst Intern",
+      "website":"https://home.barclays",
+      "startDate": "2016-06-06",
+      "endDate": "2016-06-31",
+      "summary": "Developed a Proof of Concept for sentiment analysis using NLTK by creating an end to end system having Kafka and Elasticsearch integration for large scale data and analyzed its results on Kibana. Implemented a key objective by developing a system to predict information of customer using the Facebook data and analyzed it for targeted advertising. The system used Graph API for data analysis.",
+      "highlights": [
+        "Successfully implemented features to analyze client data and derived insights from them. ",
+        "Contributed to a CSR event where I mentored underprivileged students for career in computer science "
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Women`s Community of Code",
+      "position": "Volunteer",
+      "website": "http://www.ccs.neu.edu/home/laney/wcoc/index.html",
+      "summary": "Mentored girls and women in programmming. Contributed to workshops on data visualization, python programming and introduction to coding."
+    },
+    {
+      "organization": "The Akanksha Foundation",
+      "position": "Tutor",
+      "website": "http://www.akanksha.org",
+      "summary": "Volunteered as a teaching assistant for school students. Mentored students in English and Math courses. "
+    }
+  ],
+  "education": [
+    {
+      "institution": "Northeastern University",
+      "website":"https://www.northeastern.edu",
+      "area": "Boston, US",
+      "studyType": "Masters",
+      "startDate": "2017-09-01",
+      "endDate": "2019-12-15",
+      "courses": [
+        "Algorithms",
+        "Natural Language Processing",
+        "Programming Design Paradigms",
+        "Foundations of AI",
+        "Information Retrieval"
+      ]
+    },
+    {
+      "institution": "Mumbai University",
+      "website":"https://www.spit.ac.in/about/",
+      "area": "Mumbai, India",
+      "studyType": "Bachelors",
+      "startDate": "2013-08-23",
+      "endDate": "2017-05-15",
+      "courses": [
+        "Object Oriented Programming",
+        "Data Mining",
+        "Cloud Computing",
+        "Intelligent Systems",
+        "Data Structures",
+        "Distributed Systems",
+        "Computer Networks",
+        "Web Programming",
+        "Big Data Analysis"
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "Blockchain-based remittances using CUDA”",
+      "publisher": "IEEE",
+      "releaseDate": "2017-08-17",
+      "website": "https://ieeexplore.ieee.org/document/8358503",
+      "summary": "Published and Presented a technical paper on implementation of Blockchain for remittances at the 2017 International Conference on Smart Technologies for Smart Nation."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "level": "Master",
+      "keywords": [
+        "Python",
+        "Java",
+        "Go",
+        "Kotlin",
+        "C",
+        "SQL",
+        "TypeScript"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Master",
+      "keywords": [
+        "MySql",
+        "MongoDB",
+        "DynamoDB",
+        "SQLite"
+      ]
+    },
+    {
+      "name": "Technologies",
+      "level": "Master",
+      "keywords": [
+        "Docker",
+        "OpenShift",
+        "Kubernetes",
+        "NumPy",
+        "Matplotlib",
+        "Pandas",
+        "NLTK",
+        "scikit-learn",
+        "AWS",
+        "GCP"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent speaker"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Fluent speaker"
+    },
+    {
+      "language": "Marathi",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "keywords": [
+        "Reading Books",
+        "Travelling"
+      ]
+    }
+  ]
+}
