@@ -4,7 +4,6 @@ subtitle: "somtthe"
 image: 
   path: /assets/images/tweetAnlyzr.png
   thumbnail: /assets/images/tweetAnlyzr.png
-  caption: "Photo from [Pexels](https://www.pexels.com)"
 ---
 Twitter is an excellent platform to connect with any domain experts. If you want to promote your business or see domain specific trends, you require an end to end analytics tool which caters to your specific requirements. 
 
@@ -26,6 +25,7 @@ Programming and Cloud Computing
     - Viral: Metric to determine if the user is viral (popular) in the domain
     - Associated Tags: List of tags used by the user in the given domain
 5. The user can use this knowledge to improve their systems and products without compromising end user data.
+6. The source code can be found at [Github Link](https://github.com/VaishnaviHire/OthelloAI)
 
 ## Technologies Used
 

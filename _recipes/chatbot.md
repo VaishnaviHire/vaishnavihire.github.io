@@ -3,33 +3,26 @@ title: "Kscout Virtual Assistant"
 image: 
   path: /assets/images/chatbot.jpg
   thumbnail: /assets/images/chatbot.jpg
-  caption: "Photo from [Pexels](https://www.pexels.com)"
+
 ---
-Twitter is an excellent platform to connect with any domain experts. If you want to promote your business or see domain specific trends, you require an end to end analytics tool which caters to your specific requirements. 
+Chatbots have changed how a service provider gives services to their consumers. Chatbots are effective for introducing your platform to new users.
 
-Twitter performance is necessary to measure your social ROI, in order to get information regarding what is working and what is not working for your users.
-
-Tweet Analyzer is an analytics tool which captures domain specific trends on twitter. This tool can be used to get latest updates on a domain, what type of users are active in that domain(target users), who are the influencers and what is the overall sentiment in that domain.
-
-This tool gives a business owner / domain enthusiast a holistic knowledge on changing trends.
+I contributed in the development of Scout Virtual assistant. It is a chatbot for kscout.io platform. Kscout.io is an opensource project, which act as a markettplace for Knative apps where users can search and deploy serverless apps.
 
 ## Description 
 
-1. This tool helps users to analyze twitter trends in a particular domain.
-2. Currently it supports following domains: Machine Learning and AI, Databases, Software Engineering,
-Programming and Cloud Computing
-3. It can be extended to include more domains as required by the user.
-4. The tool can be used for following analysis:
-    - Sentiment Analysis: Majority sentiments of the given user are calculated to get sense of how user is perceived on the platform
-    - Influence Analysis: Metric to measure how the given user influences other users in the domain.
-    - Viral: Metric to determine if the user is viral (popular) in the domain
-    - Associated Tags: List of tags used by the user in the given domain
-5. The user can use this knowledge to improve their systems and products without compromising end user data.
+1. Scout helps users to search apps on the platform, deploy them to clusters and also helps users with any queries regarding serverless.
+2. The implemented chatbot api is robust and can be easily integrated with any messaging platform abd IDEs
+3. Currently the chatbot is integrated with the kscout.io websitte, slack and VSCode IDE extension.
+4. The api makes use of IBM`s watson api to create conversations. It uses natural language understanding, and integrated dialog tools to create conversation flows between the platform and users.
+5. The chatbot api source code can be found at [Chatbot Api](http://github.com/kscout/chat-bot-api) 
+6. Source code for slack and ide integrations are : [Slack client](https://github.com/kscout/slack-chat-bot-api) , [VSCode Exttension](https://github.com/kscout/kscout-ide-extension)
 
 ## Technologies Used
 
-* scikit-learn
-* tensorflow
-* Twitter API
-* MySQL
+* VScode Extension API
+* IBM Watson Assistant API
+* NLTK
+* Slack Events api
+* sklearn
 * Python
