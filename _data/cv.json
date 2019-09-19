@@ -125,11 +125,19 @@
   ],
   "publications": [
     {
-      "name": "Blockchain-based remittances using CUDA”",
+      "name": "Blockchain-based remittances using CUDA",
       "publisher": "IEEE",
-      "releaseDate": "2017-08-17",
+      "releaseDate": "08-17-2018",
       "website": "https://ieeexplore.ieee.org/document/8358503",
       "summary": "Published and Presented a technical paper on implementation of Blockchain for remittances at the 2017 International Conference on Smart Technologies for Smart Nation."
+    },
+
+    {
+      "name": "System and Methods for Task Management using real-time Location-based Notifications.",
+      "publisher": "IP India Service",
+      "releaseDate": "08-23-2019",
+      "website": "http://ipindiaservices.gov.in/PublicSearch/PublicationSearch",
+      "summary": "Patent published under the intellectual property of India services under the communication and technology category."
     }
   ],
   "skills": [
