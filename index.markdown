@@ -12,4 +12,4 @@ My future aspirations also include contributing to open source community. I have
 
 When I am not coding, you will find me reading books. Being a data enthusiast, `Factfulness` by Hans Rosling is one of my favorite books.
 
-I look forward to connecting with you on [LinkedIn](https://www.linkedin.com/in/vaishnavihire/), [Twitter]("https://twitter.com/VaishnaviHire") or you can email me at [Email](hire.v@husky.neu.edu)
+I look forward to connecting with you on [LinkedIn](https://www.linkedin.com/in/vaishnavihire/) or you can email me at [Email](hire.v@husky.neu.edu)
